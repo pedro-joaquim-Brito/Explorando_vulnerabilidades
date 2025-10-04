@@ -16,7 +16,9 @@ Realizei uma sessão de laboratório utilizando máquinas virtuais para fins de 
 * **Ferramentas de captura/monitoramento (ex.: Wireshark / tcpdump)** — utilizadas para registrar tráfego de rede e coletar evidências de execução
 * **Registro de logs do sistema** — arquivos de log das VMs e serviços, usados para correlação de eventos e documentação dos achados.
 
-**Observações finais**
+**O<img width="767" height="262" alt="Captura de tela de 2025-10-04 11-54-53" src="https://github.com/user-attachments/assets/b0a31b30-9730-44b6-bca2-8512f3d9f1c4" />
+
+bservações finais**
 
 * Todos os testes foram conduzidos em um ambiente isolado e controlado, destinado ao aprendizado.
 * O objetivo principal foi identificar comportamentos dos serviços, validar mecanismos de detecção e registrar evidências para posterior análise e propostas de mitigação.
