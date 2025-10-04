@@ -1,7 +1,7 @@
 # Explorando_vulnerabilidades
 
 **Resumo**
-Realizei uma sessão de laboratório utilizando máquinas virtuais para fins de aprendizado e avaliação em um ambiente controlado. A seguir descrevo, em primeira pessoa, as ferramentas e plataformas que utilizei durante os testes.
+Realizei uma sessão de laboratório utilizando máquinas virtuais para fins de aprendizado e avaliação em um ambiente controlado. A seguir descrevo, as ferramentas e plataformas que utilizei durante os testes.
 
 **Ferramentas e plataformas utilizadas**
 
